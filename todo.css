@@ -1,0 +1,14 @@
+#addtask{
+    background-color:purple;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
+    margin-left: 50%;
+}
+#newtask{
+    height: 30px;
+    outline-offset: 1px;
+    margin-left: 45%;
+    font-size:20px;
+}
